@@ -1,4 +1,4 @@
-package it.xpug.milano.pactconsumer
+package it.xpug.milano.pactconsumer.web
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
