@@ -1,4 +1,4 @@
-package it.xpug.milano.pactprovider
+package it.xpug.milano.pactprovider.web
 
 import org.junit.Test
 import org.junit.runner.RunWith
